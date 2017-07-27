@@ -1,0 +1,245 @@
++"MAIN_PREFERENCES_HEADER" = "Snapchat + Einstellungen";
+ +"DISABLEHOLDTOVIEW" = " Deaktivieren Gestützt bleiben um zu sehen";
+ +"DISABLEHOLDTOVIEW_DESCRIPTION" = "Sie brauchen nicht mehr , gestützt zu bleiben, um das Bild/Video zu sehen. Wenn die Funktion aktiviert wird, klicken'X' auf die linke Seite des Schimmes zu verlässt image/video w/o als gelesen markieren oder die rote-Augen symbol als gelesen markieren.";
+ +"PROTECTAPPWITHPASSWORD" = "Aktivieren Passwort oder TouchID";
+ +"PROTECTAPPWITHPASSWORD_DESCRIPTION" = "Fügen Sie ein Passwort oder TouchID für den Snapchatstart - 3 Versuche vor die Blockierung (Nécessitant une remise à zéro)";
+ +"SAVETO" = "Media speichern ins";
+ +"ADDITIONAL_SETTINGS" = "Snapchat + Einstellungen";
+ +"SAVEDMEDIA" = "Medien gespeichert";
+ +"MANAGE" = "Verwalten";
+ +"LOCATION" = "Lage";
+ +"ALBUM_NAME" = "Albumname";
+ +"ONECLICKSAVE" = "Eins Klik speichern";
+ +"ONECLICKSAVE_DESCRIPTION" = "Ein Klik speichern im gewünschten Ordner";
+ +"AUTOSAVEINCOMING" = "Automatisches Speichern empfangene Snaps";
+ +"AUTOSAVEINCOMING_DESCRIPTION" = "Speichern automatisch Snaps, die Sie erhaltenz";
+ +"SELECTIVE_AUTOSAVEINCOMING" = "Aktivieren Sie die Auswahl der automatischen Registrierung";
+ +"SELECTED_USERS" = "Ausgewählte Freunde";
+ +"AUTOSAVEOUTGOING" = "Speichern gesendeter Snaps";
+ +"AUTOSAVEOUTGOING_DESCRIPTION" = "Speichern automatisch einrastet Sie senden";
+ +"DISABLECAMERASHUTTERSOUND" = "Mute während eines Screenshot";
+ +"AUTOSAVE_NOTIFICATION" = "Speichern Sie automatisch Benachrichtigungen";
+ +"AUTOSAVE_NOTIFICATION_DESC" = "Zeigen Sie die Statusleiste , wenn Benachrichtigungen Aufnahme";
+ +"DISABLECAMERASHUTTERSOUND_DESCRIPTION" = "Schalten Sie den Ton beim Fotografieren";
+ +
+ +// Autosave Stories
+ +"STORIESSAVESETTINGS" = "Einstellungen des enregistrements automatique des stories";
+ +"STORIESSAVESETTINGS_DESCRIPTION" = "Verwalten Sie, welche Stories zu erfassen und wo zu speichern";
+ +"AUTOSAVE_STORIES" = "Automatisches Speichern Stories";
+ +"AUTOSAVE_STORIES_DESC" = "Speichern Sie die Stories, die Sie laden und Sie schauen";
+ +"AUTOSAVE_STORIES_NOTIFICATION_DESC" = "Die Statusleiste während der Aufzeichnung von Geschichten";
+ +"STORIES_MEDIA_VAULT" = "Sicherheit Stories";
+ +"STORIES_MEDIA_VAULT_DESC" = "Gespeicherte Stories";
+ +
+ +"DONTSENDSTORYREADREQUEST" = "Schauen Sie Stories im verborgenen Modus";
+ +"DONTSENDSTORYREADREQUEST_DESCRIPTION" = "Ihr Freund wird nicht sehen Sie seine Story angeschaut";
+ +"TRIGGERSNAPWITHVOLUMEUP" = "Nehmen Sie ein Foto mit Activator";
+ +"TRIGGERSNAPWITHVOLUMEUP_DESCRIPTION" = "Wählen Sie Ihre benutzerdefinierte Aktion ein Snap mit Activator auslösen (braucht d'Activator)";
+ +"TEMPERATURE" = "Temperatur";
+ +"SPOOFTEMPERATUREF" = "Falschen F";
+ +"SPOOFTEMPERATUREF_DESCRIPTION" = "Ersetzen und konfigurieren F Temperatur";
+ +"SPOOFTEMPERATUREC" = "Falschen C";
+ +"SPOOFTEMPERATUREC_DESCRIPTION" = "Ersetzen und konfigurieren C Temperatur";
+ +"CLEARBADGESONEXIT" = "Klare Abzeichen Ausfahrt";
+ +"CLEARBADGESONEXIT_DESCRIPTION" = "Klare Abzeichen und Symbol auf Snapchat Ausfahrt";
+ +"STATUSBARICONNOTIFICATION" = "Show Snapchat Symbol in der Statusleiste";
+ +"STATUSBARICONNOTIFICATION_DESCRIPTION" = "Wenn Sie einen Snap erhalten, wird ein Geist-Symbol in der Statusleiste angezeigt für Sie berichten";
+ +"ALWAYSSHOWFEEDSUBLABELS" = "Immer zeigen Sublabels";
+ +"ALWAYSSHOWFEEDSUBLABELS_DESCRIPTION" = "Angaben auf dem Etikett von zusätzlichen Mechanismen";
+ +"PASSWORDPROTECTSAVEDMEDIA" = "Passwortschutz";
+ +"PASSWORDPROTECTSAVEDMEDIA_DESCRIPTION" = "Geben Sie das Passwort-Snaps anzuzeigen";
+ +
+ +"INCOMING_MEDIA" = "Eingehende Medien;
+ +"INCOMING_MEDIA_DESCRIPTION" = "Automatisch wieder Bilder/Videos, die Sie erhalten";
+ +
+ +"OUTGOING_MEDIA" = "Ausgehende Medien";
+ +"OUTGOING_MEDIA_DESCRIPTION" = "Automatisch wieder Bilder/Videos, die Sie schicken";
+ +
+ +"AUTOLOAD" = "Verwalten Auto-Downloads";
+ +"AUTOLOADSNAPS" = "Deaktivieren Sie der automatischen Laden von Snap"; Aktivieren Sie die Schaltfläche, um manuell die Snaps herunterladen";
+ +"AUTOLOADSTORIES" = "Deaktivieren Autoload of Stories";
+ +"AUTOLOADSTORIES_DESCRIPTION" = "Standardmäßig aktiviert in Snapchat. Aktivieren Sie die Schaltfläche, um manuell die Stories herunterladen";
+ +"AUTOLOADDISCOVER" = "Deaktivieren Sie der automatischen Laden of Discover";
+ +"AUTOLOADDISCOVER_DESCRIPTION" = "Standardmäßig aktiviert in Snapchat. Aktivieren Sie die Schaltfläche, um manuell die Discover stories herunterladen";
+ +
+ +"SHARE" = "Teilnehmen";
+ +"SAVING" = "Sichern";
+ +"SAVED" = "Gescgützt";
+ +"FAILED" = "Gescheitert";
+ +"SENT" = "Treffend";
+ +"POSTED" = "Schichtarbeit";
+ +"TWEETED" = "Tweeted";
+ +"COPIED" = "Kopiert";
+ +"PRINTED" = "Gedruckt";
+ +"SHARED" = "Geteilt";
+ +"ADDED" = "Hinzugefügt";
+ +
+ +"GP_SAVE_TO_CAMERA_ROLL" = "In den Handy speichern ";
+ +"GP_SAVE_TO_ALBUM" = "In ein Album speichern";
+ +"GP_SAVE_TO_VAULT" = "In die Vault SC+ speichern";
+ +
+ +"SAVETOSETTING" = "Einstellungen pour l'enregistrement des snaps";
+ +"SAVETOSETTING_DESCRIPTION" = "Die Parameter zu bestimmen, welche Snap oder aufzeichnen und speichern";
+ +"SAVEDMEDIASETTINGS" = "Snapchat + Sicherheit  Medien";
+ +"SAVEDMEDIASETTINGS_DESCRIPTION" = "Medien Sicherheit von gespeichert Snaps (empfangen / gesendet) und Stamm-Sicherheitseinstellungen";
+ +"DROPBOXSYNCSETTINGS" = "Link Parameter DropBox";
+ +"DROPBOXSYNCSETTINGS_DESCRIPTION" = "Einstellungen DropBox für verknüpfte Konten";
+ +"MANAGESETTINGS" = "Sichtbarkeitseinstellungen und Schwindel";
+ +"MANAGESETTINGS_DESCRIPTION" = "Einstellungen steuern die Datenschutzeinstellungen Snapchat und die Fähigkeit, einige Objekte zu fälschen Snapchat.";
+ +"AUTOLOADSETTINGS" = "Einstellungen des automatische Laden";
+ +"AUTOLOADSETTINGS_DESCRIPTION" = "Aktivieren oder deaktivieren Sie das automatische Laden Snapchat Einstellungen Bandbreite Telefon sparen";
+ +
+ +"CHAT_BLOCK_BUTTON" = "Chat Block Schaltfläche";
+ +"CHAT_BLOCK_BUTTON_DESC" = "Fügen Sie die obere Block-Taste auf dem eine Katze links, um direkt einen Freund zu blockieren.";
+ +
+ +"SPOOF_SPEED_KILOMETERS" = "Kilometer pro Stunde fälschen ";
+ +"SPEED" = "Définir kilomètres";
+ +"SPOOF_SPEED_KILOMETERS_DESC" = "Aktivieren und die Geschwindigkeit verfälschten Kilometer gesetzt";
+ +
+ +"SPOOF_SPEED_METERS" = "Miles pro Stunde fälschen";
+ +"SPEED_SPOOF" = "Miles definieren";
+ +"SPOOF_SPEED_METERS_DESC" = "Aktivieren und die Geschwindigkeit verfälschten Miles gesetzt";
+ +"SPOOF_MINUTE" = "Minuten fälschen";
+ +"MINUTE" = "Minuten definieren";
+ +"SPOOF_HOUR" = "Uhr fälschen";
+ +"HOUR" = "Uhr definieren";
+ +"SPOOF_IS_AM" = "AM fälschen";
+ +"SPOOF_FORCE_AMPM_FORMAT" = "zwingen Format AM/PM ";
+ +"SPOOF_TIME_DESC" = "Controller der Filter verzerren Zeit in Snapchat";
+ +
+ +"HEY_THERE_ALERT" = "Hey There!";
+ +"APP_RESTART_REQUIRED" = "Das Aktivieren dieser Option erfordert die Anwendung neu starten!";
+ +"CLOSE_APP" = "Schliessen Sie die Anwendung";
+ +"CANCEL" = "Stornieren";
+ +"SUPPORT_HEADER" = "Unterstützung";
+ +"SUPPORT_REMOVE_ADS_TITLE" = "Unterstützen Sie uns entfernen Anzeigen für $2.00";
+ +"LOGOUT_FROM_UAPP" = "Austragen aus Snap +";
+ +"WARNING" = "Achtung!";
+ +
+ +"NO_THANKS_ALERT" = "Nein Danke";
+ +"TWEET_TO_REMOVE_ADS" = "Tweeter wird Pubs Twittr ++ für 1 Woche und eine Hälfte entfernen. Sie können einmal pro Woche kostenlose Tweet. Ihre Unterstützung ist genial!";
+ +"PASSCODE_ALREADY_EXISTS" = "Der Zugangscode ist bereits vorhanden";
+ +"DELETE_PASSCODE_TO_SET_NEW" = "Um einen neuen zu definieren, löschen Sie zuerst die bestehendet";
+ +"OK" = "Ok";
+ +"MISSING_INFORMATION" = "Fehlende Information";
+ +"FILL_OUT_ALL_INFO" = "Achten Sie darauf, alle Daten auszufüllen!";
+ +"PAYMENT_THANK_YOU_TITLE" = "Danke!";
+ +"PAYMENT_CONFIRMATION" = "Sie haben Anzeigen für Snap + im Leben entfernt. Vielen Dank für Ihre Unterstützung!";
+ +"PAYMENT_OK" = "Okay!";
+ +"ADD_REMOVAL" = "Snap + Entfernen Bierstuben";
+ +"AD_SETTINGS" = "Bierstuben Entfernen von Einstellungen";
+ +"UA_PPTTWEAK_TWEET_PROMO_TEXT" = "Ich benutze Snap++ für Snapchat von @Unlimapps erstellt und übersetzt von @Ryan, um neue Features in der Snapchat!";
+ +
+ +"SCPP_ADS_MESSAGE_TITLE" = "Hey There!";
+ +"SCPP_ADS_MESSAGE" = "Um unsere Entwicklung Snap-+ als freies Produkt zu unterstützen, konfigurierten wir Anzeigen auf Ihrer Snapchat App angezeigt werden, wie Sie einen Schnappschuss zu sehen. Wenn Sie die Anzeigen entfernen möchten, können Sie für einen Abzug von 2 Wochen Anwendung twittern oder $ 2 für eine lebenslange Lizenz spenden. Vielen Dank für Ihre Hilfe!";
+ +
+ +"ENABLEDEFAULTFACES" = "Aktivieren Flächen entfernt";
+ +"ENABLEDEFAULTFACES_DESCRIPTION" = "Zeigen Gesichter, die Snapchat entfernt..";
+ +
+ +"ENABLECUSTOMFACES" = "Aktivieren Sie benutzerdefinierte Gesichter";
+ +"ENABLECUSTOMFACES_DESCRIPTION" = "Zeigen Sie benutzerdefinierte Gesichter aus dem Snap +";
+ +
+ +"ENABLELOCKEDFACES" = "Aktivieren gesperrt Gesichter";
+ +
+ +"ENABLECUSTOMFILTERS" = "Aktivieren Sie benutzerdefinierte Filter";
+ +"ENABLECUSTOMFILTERS_DESCRIPTION" = "Anzeige von benutzerdefinierten Filtern aus dem Snap +";
+ +
+ +"FILTERFACESSETTINGS" = "Filtereinstellungen und Gesichter";
+ +"FILTERFACESSETTINGS_DESCRIPTION" = "Filtereinstellungen bearbeiten und benutzerdefinierte Gesichter";
+ +
+ +"MEDIA_VAULT" = "Sicherheit Medien";
+ +"MEDIA_VAULT_DESCRIPTION" = "Zugriff auf aufgezeichnete ein/ausgehenden Mediens";
+ +
+ +"SYNC_WITH_DROPBOX_INCOMING" = "Sync ausgehenden mit Dropbox";
+ +"SYNC_INCOMING_MEDIA_DESCRIPTION" = "Aktivieren Sie die Synchronisierung Medien Teilnehmer mit Dropbox registriert";
+ +
+ +"SYNC_WITH_DROPBOX_OUTGOING" = "Sync eingehenden with Dropbox";
+ +"SYNC_OUTGOING_MEDIA_DESCRIPTION" = "Aktivieren Sie die Synchronisierung Medien Teilnehmer mit Dropbox registriert";
+ +"MORE_SETTINGS" = "Kontakt / Mehr";
+ +
+ +"SC_ADS_MESSAGE_TITLE" = "Hey There!";
+ +"SC_ADS_MESSAGE" = "Um unsere Entwicklung Snap-+ als freies Produkt zu unterstützen, konfigurierten wir Anzeigen auf Ihrer Snapchat App angezeigt werden, wie Sie einen Schnappschuss zu sehen. Wenn Sie die Anzeigen entfernen möchten, können Sie für einen Abzug von 2 Wochen Anwendung twittern oder $ 2 für eine lebenslange Lizenz spenden. Vielen Dank für Ihre Hilfe!";
+ +
+ +//Snaps Settings
+ +"SNAPS_SETTINGS" = "Snaps Einstellungen";
+ +"SNAPS_SETTINGS_DESCRIPTION" = "Einstellungen anzuzeigen und zu interagieren mit Snap";
+ +"ALWAYSKEEPSNAPS" = "Unbegrenzte Ansicht von Snaps";
+ +"ALWAYSKEEPSNAPS_DESCRIPTION" = "Die Snap nicht verschwinden nach dem ersten Blick. Ob die Anzeige von Snaps so oft ermöglichen, wie Sie möchten.";
+ +
+ +"ALWAYSKEEPGROUPSNAPS" = "Unbegrenzte Ansicht von Snaps Gruppen";
+ +"ALWAYSKEEPGROUPSNAPS_DESCRIPTION" = "Die Snap Ihrer Gruppen verschwinden nicht mehr nach dem ersten Blick. Ob die Anzeige von Snaps so oft erlauben, wie Sie möchten.";
+ +
+ +"HIDE_SNAP_TIMER" = "Ausblenden Snapchat Zähler";
+ +"HIDE_SNAP_TIMER_DESC" = "Ausblenden Snapchat Zähler bei der Anzeige";
+ +"SAVETEXTMESSAGES" = "Nachricht speichern";
+ +"SAVETEXTMESSAGES_DESCRIPTION" = "Auto-Save-Nachrichten";
+ +"SHARE_CHAT_TEXT" = "Sharing / Kopieren Text-Chat";
+ +"SHARE_CHAT_TEXT_DESC" = "Halten Sie oder kopieren zu teilen Text";
+ +
+ +//Privacy Settings
+ +"PRIVACY_SETTINGS" = "Datenschutzeinstellungen";
+ +"PRIVACY_SETTINGS_DESCRIPTION" = "Verwalten Sie die Datenschutzeinstellungen , wie Benachrichtigungen, wenn Sie eine Nachricht schreiben";
+ +"DISABLEISTYPING" = "Benachrichtigungen deaktivieren von Schriften";
+ +"DISABLEISTYPING_DESCRIPTION" = "Die anderen nicht erhalten haben, dass Sie sich über schreiben";
+ +"DISABLEISTYPING_WHITELIST_DESCRIPTION" = "Nur Kontakte auf weiße Liste enthalten sind, erhalten Sie im Begriff sind, zu schreiben";
+ +"DISABLEISTYPING_BLACKLIST_DESCRIPTION" = "Alle außer den Kontakten der schwarzen Liste, erhalten Sie sind zu schreiben";
+ +"TYPING_WHITELIST" = "Weissen Liste";
+ +"TYPING_BLACKLIST" = "Schwarze Liste";
+ +"DISABLE_SCREENSHOT_NOTIFICATION" = "Disable Screenshot Quittungen";
+ +"DISABLE_SCREENSHOT_NOTIFICATION_DESC" = "Snapchat nicht erkennen, wenn Sie einen Screenshot.";
+ +"SECURITY_SETTINGS" = "Sicherheitseinstellungen";
+ +"SET_PASSCODE" = "Passcode festlegen";
+ +"SET_VAULT_PASSCODE" = "Passcode festlegen für gallerie";
+ +"ENTER_PASSWORD" = "Die Sicherheits-Code Snapchat eingeben";
+ +"ENTER_VAULT_PASSWORD" = "Die Sicherheits-Code Gallery eingeben";
+ +"DELETE_PASSCODE" = "Die Sicherheits-Code entfernen";
+ +"DELETE_VAULT_PASSCODE" = "Löschen Sie den Code von Gallery";
+ +"NO_PASSCODE" = "Kein Snapchat Sicherheits-Code";
+ +"NO_VAULT_PASSCODE" = "Kein Sicherheits-Code für Gallery";
+ +"ENABLE_TOUCH_ID" = "TouchID aktivieren";
+ +
+ +//Appearance Settings
+ +"APPEARANCE_SETTINGS" = "Ausseheneinstellungen";
+ +"APPEARANCE_SETTINGS_DESCRIPTION" = "Verwahlten Sie das Aussehen von Snapchat und Snap +";
+ +"DISABLE_STORIES_REDESIGN" = "Stories ReDesign deaktivieren";
+ +"DISABLE_STORIES_REDESIGN_DESC" = "Deaktivieren Sie neue Design-Geschichten und die alte verwenden";
+ +"DISABLE_NEW_TAB_BAR" = "Deaktivieren Sie die neue Suchleiste";
+ +"DISABLE_NEW_TAB_BAR_DESC" = "Deaktiviert die neue Suchleiste";
+ +"STEALTH_MODE" = "Tweaks verstecken";
+ +"STEALTH_MODE_DESC" = "Ausblenden aller UIElemente den tweaks.\nNote: Wenn diese Option aktiviert, können Sie die Einstellungen aus den Einstellungen in Snapchat zugreifen.";
+ +
+ +//Usage Settings
+ +"USAGE_SETTINGS" = "Benutzungseinstellungen";
+ +"USAGE_SETTINGS_DESCRIPTION" = "Verwalten Sie, wie Snapchat und Snap + zu verwenden";
+ +"DEFAULT_VIEW_ONLAUNCH" = "Startansicht";
+ +"DEFAULT_VIEW_ONLAUNCH_DESC" = "Wählen Sie die Snapchat Startansicht anzuzeigen";
+ +"DEFAULT_LAUNCH_VIEW" = "Standard";
+ +"LEFT_LAUNCH_VIEW" = "Plaudern";
+ +"RIGHT_LAUNCH_VIEW" = "Stories";
+ +"FAR_RIGHT_LAUNCH_VIEW" = "Discover";
+ +"ENABLE_IMAGE_EDITING" = "Bildearbeitungen";
+ +"ENABLE_IMAGE_EDITING_DESC" = "Ersetzen-Taste Schublade Linie durch einen umfassenden Bild-Editor, der einen benutzerdefinierten Linearschlitten enthält.";
+ +"TAP_TO_RECORD_VIDEOS" = "Tippen Sie auf, um aufzunehmen";
+ +"TAP_TO_RECORD_VIDEOS_DESC" = "Deaktivieren Eingabegeste Video aufzunehmen, kurz nach lang drücken, können Sie loslassen und erneut drücken die Aufnahme zu stoppen.";
+ +"RECORDING_LENGTH" = "Erhöhen Sie die Länge des Videos";
+ +"RECORDING_LENGTH_DESC" = "Erhöhen Sie die Länge des Videos bis 10 seconden zu 50.";
+ +"SHOW_RECORDING_SECONDS" = "Show Sekunden Aufnahme";
+ +"SHOW_RECORDING_SECONDS_DESC" = "Fügen Sie die Anzahl der Sekunden auf dem Timer der Kamera für die Aufnahme von Videos.";
+ +
+ +//Stories Settings
+ +"STORIES_SETTINGS" = "Stories Einstellungen";
+ +"STORIES_SETTINGS_DESCRIPTION" = "Verwalten Sie den Betrieb stories von Snapchat";
+ +"HIDE_LIVE_STORIES" = "Live Stories ausblenden";
+ +"HIDE_DISCOVER_STORIES" = "Discover stories ausblenden";
+ +"HIDE_STORIES_DESC" = "Aktiviert für stories ausblenden";
+ +"DISABLE_STORIES_AUTOSWITCH" = "Die automatische stories Anderung deaktivieren";
+ +"DISABLE_STORIES_AUTOSWITCH_DESC" = "Wenn Geschichten zu beobachten, geht Snapchat nicht zum nächsten Video / Foto, bis Sie es klicken";
+ +"DISABLE_STORIES_AUTOADVANCE" = "Die automatischer stories Vorschub deaktivieren ";
+ +"DISABLE_STORIES_AUTOADVANCE_DESC" = "Wenn Sie in den letzten Geschichten aussehen, übergeben Snapchat nicht die folgenden neuen Geschichten";
+ +"ENABLE_MUTED_USERS" = "Die Ggedämpfen Benutzer aktivieren";
+ +"MUTED_USERS" = "Gedämpfen Benutzer";
+ +"MUTED_USERS_DESCRIPTION" = "Wählen Sie Ihre Freunde die Sie nicht mehr stories sehen wollen.";
+ +
+ +
+ +"DISABLE_EVENT_LOGGING" = "Deaktivieren Sie die Ereignisprotokollierung";
+ +"DISABLE_EVENT_LOGGING_DESC" = "Deaktivieren Sie die Ereignisprotokollierung über Snapchat!";
