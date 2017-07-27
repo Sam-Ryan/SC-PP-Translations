@@ -11,8 +11,8 @@
  +"ALBUM_NAME" = "Albumname";
  +"ONECLICKSAVE" = "Eins Klik speichern";
  +"ONECLICKSAVE_DESCRIPTION" = "Ein Klik speichern im gewünschten Ordner";
- +"AUTOSAVEINCOMING" = "Sauvegarder automatiquement les snaps reçus";
- +"AUTOSAVEINCOMING_DESCRIPTION" = "Sauvegarde automatiquement les snaps que vous recevez";
+ +"AUTOSAVEINCOMING" = "Automatisches Speichern empfangene Snaps";
+ +"AUTOSAVEINCOMING_DESCRIPTION" = "Speichern automatisch Snaps, die Sie erhaltenz";
  +"SELECTIVE_AUTOSAVEINCOMING" = "Aktivieren Sie die Auswahl der automatischen Registrierung";
  +"SELECTED_USERS" = "Ausgewählte Freunde";
  +"AUTOSAVEOUTGOING" = "Speichern gesendeter Snaps";
@@ -57,7 +57,7 @@
  +
  +"AUTOLOAD" = "Verwalten Auto-Downloads";
  +"AUTOLOADSNAPS" = "Deaktivieren Sie der automatischen Laden von Snap"; Aktivieren Sie die Schaltfläche, um manuell die Snaps herunterladen";
- +"AUTOLOADSTORIES" = "Disable Autoload of Stories";
+ +"AUTOLOADSTORIES" = "Deaktivieren Autoload of Stories";
  +"AUTOLOADSTORIES_DESCRIPTION" = "Standardmäßig aktiviert in Snapchat. Aktivieren Sie die Schaltfläche, um manuell die Stories herunterladen";
  +"AUTOLOADDISCOVER" = "Deaktivieren Sie der automatischen Laden of Discover";
  +"AUTOLOADDISCOVER_DESCRIPTION" = "Standardmäßig aktiviert in Snapchat. Aktivieren Sie die Schaltfläche, um manuell die Discover stories herunterladen";
@@ -183,7 +183,7 @@
  +"DISABLEISTYPING_DESCRIPTION" = "Die anderen nicht erhalten haben, dass Sie sich über schreiben";
  +"DISABLEISTYPING_WHITELIST_DESCRIPTION" = "Nur Kontakte auf weiße Liste enthalten sind, erhalten Sie im Begriff sind, zu schreiben";
  +"DISABLEISTYPING_BLACKLIST_DESCRIPTION" = "Alle außer den Kontakten der schwarzen Liste, erhalten Sie sind zu schreiben";
- +"TYPING_WHITELIST" = "Whitelist";
+ +"TYPING_WHITELIST" = "Weissen Liste";
  +"TYPING_BLACKLIST" = "Schwarze Liste";
  +"DISABLE_SCREENSHOT_NOTIFICATION" = "Disable Screenshot Quittungen";
  +"DISABLE_SCREENSHOT_NOTIFICATION_DESC" = "Snapchat nicht erkennen, wenn Sie einen Screenshot.";
@@ -229,7 +229,7 @@
  +//Stories Settings
  +"STORIES_SETTINGS" = "Stories Einstellungen";
  +"STORIES_SETTINGS_DESCRIPTION" = "Verwalten Sie den Betrieb stories von Snapchat";
- +"HIDE_LIVE_STORIES" = "Lie Stories ausblenden";
+ +"HIDE_LIVE_STORIES" = "Live Stories ausblenden";
  +"HIDE_DISCOVER_STORIES" = "Discover stories ausblenden";
  +"HIDE_STORIES_DESC" = "Aktiviert für stories ausblenden";
  +"DISABLE_STORIES_AUTOSWITCH" = "Die automatische stories Anderung deaktivieren";
