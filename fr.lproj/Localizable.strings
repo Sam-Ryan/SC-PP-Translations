@@ -113,7 +113,7 @@
 	<key>AUTOLOADSTORIES_DESCRIPTION</key>
 	<string>Activé par defaut dans Snapchat. Activer le bouton pour télécharger manuellement les stories</string>
 	<key>AUTOLOADDISCOVER</key>
-	<string>Disable Autoload of Discover</string>
+	<string>Désactiver le chargement automatique Discover</string>
 	<key>AUTOLOADDISCOVER_DESCRIPTION</key>
 	<string>Activé par defaut dans Snapchat. Activer le bouton pour télécharger manuellement les articles discovers</string>
 	<key>SHARE</key>
@@ -273,7 +273,7 @@
 	<key>MORE_SETTINGS</key>
 	<string>Contact / Plus</string>
 	<key>SC_ADS_MESSAGE_TITLE</key>
-	<string>Hey There!</string>
+	<string>Bienvenue!</string>
 	<key>SC_ADS_MESSAGE</key>
 	<string>Pour soutenir notre développement de Snap + en tant que produit gratuit, nous l&apos;avons configuré pour afficher des annonces en haut de votre application Snapchat pendant que vous voyez un instantané. Si vous souhaitez supprimer les annonces, vous pouvez tweeter de l&apos;application pour un retrait de 2 semaines ou faire un don de 2 $ pour une licence à vie. Merci pour votre aide!</string>
 	<key>SNAPS_SETTINGS</key>
